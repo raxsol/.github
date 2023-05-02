@@ -1,4 +1,4 @@
-<h1 align="center"><b>Raxsol Software Development Company </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center"><img src="https://github.com/raxsol/.github/blob/main/profile/logo.png"></div>
 <p align="center">
   Welcome to the official repository of Raxsol Software Development Company! Here you can find all the relevant information about our software development services and projects.
 </p>
