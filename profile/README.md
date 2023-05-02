@@ -28,3 +28,5 @@ Check out our [portfolio](https://www.raxsol.com/portfolio) to see some of the e
 Interested in learning more about our services? Contact us at info@raxsol.com or visit our [website](https://www.raxsol.com) to get started. We would love to hear from you!
 
 Thank you for considering Raxsol Software Development Company as your technology partner. We look forward to working with you!
+
+<div align="center"><img style="width: 40%;padding-bottom:25px;" src="https://github.com/raxsol/.github/blob/main/profile/raxsol-technology.png"></div>
